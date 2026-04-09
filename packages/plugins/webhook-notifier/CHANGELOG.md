@@ -1,5 +1,12 @@
 # @emdash-cms/plugin-webhook-notifier
 
+## 0.1.2
+
+### Patch Changes
+
+- Updated dependencies [[`8f44ec2`](https://github.com/emdash-cms/emdash/commit/8f44ec23a4b23f636f9689c075d29edfa4962c7c), [`87b0439`](https://github.com/emdash-cms/emdash/commit/87b0439927454a275833992de4244678b47b9aa3)]:
+  - emdash@0.2.0
+
 ## 0.1.1
 
 ### Patch Changes
